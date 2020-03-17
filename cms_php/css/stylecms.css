@@ -1,0 +1,15 @@
+body{
+	padding-top: 120px;
+	font-family: arial;	
+}
+.container{
+	width: 500px;
+	margin: 0 auto;
+}
+a:link, a:visited{
+	color: gray;
+	text-decoration: none;
+}
+a:hover{
+	color: #444;
+}
