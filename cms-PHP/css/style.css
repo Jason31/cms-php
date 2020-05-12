@@ -1,0 +1,29 @@
+body{
+	background-image: linear-gradient(to left , #6b93d1, #7097d5,
+	#759bd9, #7a9fdd, #7fa3e1, #7f9ede, #7f99da, #8094d6, #7c85c9, #7876bb, #7568ac, #71599d);
+}
+#main{
+	margin: 0 auto;
+	width: 800px;
+	color: white;
+	font-family: lato;
+}
+.form-control{
+  font-family: lato;
+  width: 270px;
+  padding: 12px;
+  border: 1px solid gray;
+  border-radius: 4px;
+}
+.send-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+
+}
+.send-button:hover{
+	opacity: 0.8;
+}

@@ -1,0 +1,33 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: honeydew;
+  position: fixed;
+  top: 0px;
+  width: 70%;
+}
+
+li {
+  float: left;
+}
+
+li{
+  display: block;
+  color: #333;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: lato;
+  font-size: 14px;
+}
+
+li :hover {
+  background-color: gray;
+}
+#logout{
+	float: right;
+	color: white;
+	background: #333;
+}
